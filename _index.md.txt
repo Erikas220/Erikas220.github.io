@@ -1,0 +1,13 @@
+title: "Eriko puslapis"
+---
+
+
+This is the front page of my site.
+
+
+
+Some information about the project.
+
+
+
+- [Eriko Potai](/posts/eriko_potai/)
